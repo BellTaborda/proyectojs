@@ -16,11 +16,11 @@
   }
   else if(campeon1=="2"){
     precioTotal+= 4800;
-    alert ("Elegiste miss el precio es de $4800 ve el total de tu compra al salir")
+    alert ("Elegiste Miss Fortune el precio es de $4800 ve el total de tu compra al salir")
   }
   else if(campeon1=="3"){
     precioTotal+= 3500;
-    alert ("Elegiste jax el precio es de $3500 ve el total de tu compra al salir")
+    alert ("Elegiste Jax el precio es de $3500 ve el total de tu compra al salir")
   }
 
   else if(campeon1=="4"){
